@@ -17,6 +17,7 @@
     align-items: center;
     position: fixed;
     justify-content: center;
+    width: 100%;
   }
 
   /* Navigation Bar: Logo and Image */
